@@ -12,4 +12,13 @@ The eye aspect ratio is constant, then rapidly drops close to zero, then increas
 ![Screenshot (983)](https://github.com/pitijit/drowsy_detection/assets/85090124/111de501-95f2-47e1-a9d0-b854736a7fef)
 
 
+https://github.com/pitijit/drowsy_detection/assets/85090124/589ad166-dcd8-4274-92f1-a0095e00d902
+
+
 4. If the eye aspect ratio indicates that the eyes have been closed for a sufficiently long enough amount of time, we’ll sound an alarm to wake up the driver.
+
+
+
+
+https://github.com/pitijit/drowsy_detection/assets/85090124/2988ec43-a8e4-4350-8739-b04bdfc80a22
+
